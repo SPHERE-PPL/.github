@@ -1,1 +1,2 @@
-# Organisation page for the Probabilistic Programming Languages Community at the Turing Institute
+# Organisation page for the SPHERE-PPL Project
+### Spatial, Health & Environmental Research using Probabilistic Programming Languages
